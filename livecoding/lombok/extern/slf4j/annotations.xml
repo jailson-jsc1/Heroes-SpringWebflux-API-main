@@ -1,5 +1,0 @@
-<root>
-    <item name='lombok.extern.slf4j.Slf4j'>
-        <annotation name='java.lang.Deprecated'/>
-    </item>
-</root>
